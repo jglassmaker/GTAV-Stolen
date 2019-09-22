@@ -1,0 +1,9 @@
+C:\Users\Josh\code\GTAV\Stolen\Stolen\obj\Debug\Stolen.csprojAssemblyReference.cache
+C:\Users\Josh\code\GTAV\Stolen\Stolen\obj\Debug\Stolen.csproj.CoreCompileInputs.cache
+C:\Users\Josh\code\GTAV\Stolen\Stolen\bin\Debug\Stolen.dll
+C:\Users\Josh\code\GTAV\Stolen\Stolen\bin\Debug\Stolen.pdb
+C:\Users\Josh\code\GTAV\Stolen\Stolen\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Josh\code\GTAV\Stolen\Stolen\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\Josh\code\GTAV\Stolen\Stolen\obj\Debug\Stolen.csproj.CopyComplete
+C:\Users\Josh\code\GTAV\Stolen\Stolen\obj\Debug\Stolen.dll
+C:\Users\Josh\code\GTAV\Stolen\Stolen\obj\Debug\Stolen.pdb
